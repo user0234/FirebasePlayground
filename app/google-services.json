@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255971434817",
+    "project_id": "resolute-ai-assignment-40b5f",
+    "storage_bucket": "resolute-ai-assignment-40b5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255971434817:android:cf5afe26de4b9a970641c0",
+        "android_client_info": {
+          "package_name": "com.example.firebasePlayground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJXqf108bSy6_aP5lc1DjPt8twyg32p2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
